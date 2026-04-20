@@ -1,5 +1,5 @@
 # 🧠 Production RAG Application - Ask My Docs
-
+![Architecture](assets/architecture.png)
 ## 🚀 Overview
 A production-style Retrieval-Augmented Generation (RAG) system with:
 - Hybrid Retrieval (BM25 + Vector Search)
