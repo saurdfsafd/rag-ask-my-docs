@@ -1,4 +1,5 @@
 # 🧠 Production RAG Application - Ask My Docs
+![Uploading image.png…]()
 
 ## 🚀 Overview
 A production-style Retrieval-Augmented Generation (RAG) system with:
